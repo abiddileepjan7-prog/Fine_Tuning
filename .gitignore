@@ -18,3 +18,5 @@ tf_env/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+finetuning_qlora/qwen_qlora_merged/
