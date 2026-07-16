@@ -22,3 +22,7 @@ tf_env/
 finetuning_qlora/qwen_qlora_merged/
 
 filereading/BhaRuns.xml
+
+filereading/__pycache__
+
+finetune_lora/qwen-merged/
