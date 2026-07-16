@@ -1,0 +1,17 @@
+{
+  "source_file": "sample.html",
+  "timings": {
+    "beautifulsoup": {
+      "time_seconds": 0.0336,
+      "paragraphs_extracted": 2,
+      "links_found": 3,
+      "images_found": 1,
+      "tables_found": 1
+    },
+    "lxml": {
+      "time_seconds": 0.0006,
+      "links_found": 3,
+      "images_found": 1
+    }
+  }
+}

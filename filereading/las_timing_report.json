@@ -1,0 +1,21 @@
+{
+  "source_file": "20220518_024622_Wellbore_00 1 1.las",
+  "timings": {
+    "lasio_load": {
+      "time_seconds": 0.0378
+    },
+    "lasio_metadata": {
+      "time_seconds": 0.0,
+      "fields_extracted": 15
+    },
+    "lasio_curves": {
+      "time_seconds": 0.0,
+      "curves_found": 3
+    },
+    "lasio_data": {
+      "time_seconds": 0.5565,
+      "rows_extracted": 58,
+      "columns_extracted": 3
+    }
+  }
+}

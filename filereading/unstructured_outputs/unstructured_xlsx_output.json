@@ -1,0 +1,141 @@
+{
+  "source_file": "Covid Dashboard.xlsx",
+  "file_type": "xlsx",
+  "num_elements": 14,
+  "elements": [
+    {
+      "type": "Table",
+      "text": "State/UTs Zone Total Cases Active Discharged Deaths Active Ratio Discharge Ratio Discharge Avg Death Ratio Death Avg Population Andaman and Nicobar South 7670 7 7534 129 0.09 98.23 Below Average 1.68 Above Average 399001 Andhra Pradesh South 2069770 3128 2052230 14412 0.15 99.15 Above Average 0.7 Below Average 91702478 Arunachal Pradesh East 55216 42 54894 280 0.08 99.42 Above Average 0.51 Below Average 1711947 Assam East 613784 3272 604465 6047 0.53 98.48 Above Average 0.99 Below Average 35998752 Bihar East 726153 29 716462 9662 0 98.67 Above Average 1.33 Above Average 128500364 Chandigarh North 65380 24 64536 820 0.04 98.71 Above Average 1.25 Below Average 1158040 Chhattisgarh East 1006326 230 992508 13588 0.02 98.63 Above Average 1.35 Above Average 32199722 Daman and Diu West 10682 0 10678 4 0 99.96 Above Average 0.04 Below Average 773997 Delhi North 1440388 361 1414934 25093 0.03 98.23 Below Average 1.74 Above Average 19301096 Goa West 178467 263 174830 3374 0.15 97.96 Below Average 1.89 Above Average 1521992 Gujarat West 826924 226 816608 10090 0.03 98.75 Above Average 1.22 Below Average 70400153 Haryana North 771420 140 761230 10050 0.02 98.68 Above Average 1.3 Above Average 28900667 Himachal Pradesh North 225712 1100 220800 3812 0.49 97.82 Below Average 1.69 Above Average 7503010 Jammu and Kashmir North 334006 1450 328108 4448 0.43 98.23 Below Average 1.33 Above Average 14999397 Jharkhand East 348992 141 343713 5138 0.04 98.49 Above Average 1.47 Above Average 40100376 Karnataka South 2991614 8056 2945415 38143 0.27 98.46 Above Average 1.27 Below Average 69599762 Kerala South 5055224 69258 4950281 35685 1.37 97.92 Below Average 0.71 Below Average 34698876 Ladakh North 21148 154 20783 211 0.73 98.27 Below Average 1 Below Average 290492 Lakshadweep South 10365 0 10314 51 0 99.51 Above Average 0.49 Below Average 66001 Madhya Pradesh West 792956 75 782357 10524 0.01 98.66 Above Average 1.33 Above Average 85002417 Maharashtra West 6623344 15866 6466913 140565 0.24 97.64 Below Average 2.12 Above Average 124904071 Manipur East 124432 799 121687 1946 0.64 97.79 Below Average 1.56 Above Average 3436948 Meghalaya East 84013 277 82274 1462 0.33 97.93 Below Average 1.74 Above Average 3772103 Mizoram East 128604 5651 122494 459 4.39 95.25 Below Average 0.36 Below Average 1308967 Nagaland East 31978 163 31123 692 0.51 97.33 Below Average 2.16 Above Average 2073074 Odisha East 1045209 2534 1034300 8375 0.24 98.96 Above Average 0.8 Below Average 47099270 Puducherry South 128401 275 126263 1863 0.21 98.33 Below Average 1.45 Above Average 1646050 Punjab North 602778 318 585889 16571 0.05 97.2 Below Average 2.75 Above Average 30501026 Rajasthan West 954503 71 945478 8954 0.01 99.05 Above Average 0.94 Below Average 79502477 Sikkim East 32096 121 31575 400 0.38 98.38 Above Average 1.25 Below Average 658019 Tamil Nadu South 2714025 9751 2668001 36273 0.36 98.3 Below Average 1.34 Above Average 83697770 Telengana South 673469 3741 665755 3973 0.56 98.85 Above Average 0.59 Below Average 38157311 Tripura East 84665 116 83732 817 0.14 98.9 Above Average 0.96 Below Average 4184959 Uttar Pradesh North 1710261 90 1687262 22909 0.01 98.66 Above Average 1.34 Above Average 231502578 Uttarakhand North 344014 158 336453 7403 0.05 97.8 Below Average 2.15 Above Average 11700099 West Bengal East 1603318 8031 1575980 19307 0.5 98.29 Below Average 1.2 Below Average 100896618",
+      "metadata": {
+        "page_number": 1,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Total Cases",
+      "metadata": {
+        "page_number": 2,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Highest Least States Cases States Cases Maharashtra 6623344 Andaman Nicobar 7670 Kerala 5055224 Lakshadweep 10365 Karnataka 2991614 Daman and Diu 10682 Tamil Nadu 2714025 Ladakh 21148 Andhra Pradesh 2069770 Nagaland 31978",
+      "metadata": {
+        "page_number": 2,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Recovered",
+      "metadata": {
+        "page_number": 2,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Highest Least States Recovered % States Recovered % Daman and Diu 99.96 Mizoram 95.25 Lakshadweep 99.51 Punjab 97.2 Arunachal Pradesh 99.42 Nagaland 97.33 Andhra Pradesh 99.15 Maharashtra 97.64 Rajasthan 99.05 Manipur 97.79 Death Highest Least States Death % States Death % Punjab 2.75 Daman and Diu 0.04 Nagaland 2.16 Mizoram 0.36 Uttarakhand 2.15 Lakshadweep 0.49 Maharashtra 2.12 Arunachal Pradesh 0.51 Goa 1.89 Telengana 0.59",
+      "metadata": {
+        "page_number": 2,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Active",
+      "metadata": {
+        "page_number": 2,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Highest Least States Active % States Active % Mizoram 4.39 Lakshadweep 0 Kerala 1.37 Daman and Diu 0 Ladakh 0.73 Bihar 0 Manipur 0.64 MP 0.01 Telengana 0.56 Rajasthan 0.01",
+      "metadata": {
+        "page_number": 2,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Row Labels Total Cases Discharged Andaman and Nicobar 7670 7534 Andhra Pradesh 2069770 2052230 Arunachal Pradesh 55216 54894 Assam 613784 604465 Bihar 726153 716462 Chandigarh 65380 64536 Chhattisgarh 1006326 992508 Daman and Diu 10682 10678 Delhi 1440388 1414934 Goa 178467 174830 Gujarat 826924 816608 Haryana 771420 761230 Himachal Pradesh 225712 220800 Jammu and Kashmir 334006 328108 Jharkhand 348992 343713 Karnataka 2991614 2945415 Kerala 5055224 4950281 Ladakh 21148 20783 Lakshadweep 10365 10314 Madhya Pradesh 792956 782357 Maharashtra 6623344 6466913 Manipur 124432 121687 Meghalaya 84013 82274 Mizoram 128604 122494 Nagaland 31978 31123 Odisha 1045209 1034300 Puducherry 128401 126263 Punjab 602778 585889 Rajasthan 954503 945478 Sikkim 32096 31575 Tamil Nadu 2714025 2668001 Telengana 673469 665755 Tripura 84665 83732 Uttar Pradesh 1710261 1687262 Uttarakhand 344014 336453 West Bengal 1603318 1575980 Grand Total 34437307 33837859",
+      "metadata": {
+        "page_number": 3,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Row Labels Active Deaths Kerala 69258 35685 Maharashtra 15866 140565 Tamil Nadu 9751 36273 Karnataka 8056 38143 West Bengal 8031 19307 Mizoram 5651 459 Telengana 3741 3973 Assam 3272 6047 Andhra Pradesh 3128 14412 Odisha 2534 8375 Jammu and Kashmir 1450 4448 Himachal Pradesh 1100 3812 Manipur 799 1946 Delhi 361 25093 Punjab 318 16571 Meghalaya 277 1462 Puducherry 275 1863 Goa 263 3374 Chhattisgarh 230 13588 Gujarat 226 10090 Nagaland 163 692 Uttarakhand 158 7403 Ladakh 154 211 Jharkhand 141 5138 Haryana 140 10050 Sikkim 121 400 Tripura 116 817 Uttar Pradesh 90 22909 Madhya Pradesh 75 10524 Rajasthan 71 8954 Arunachal Pradesh 42 280 Bihar 29 9662 Chandigarh 24 820 Andaman and Nicobar 7 129 Daman and Diu 0 4 Lakshadweep 0 51 Grand Total 135918 463530",
+      "metadata": {
+        "page_number": 4,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Row Labels Total Cases by Zone East 5884786 North 5515107 South 13650538 West 9386876 Grand Total 34437307",
+      "metadata": {
+        "page_number": 5,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Discharge Avg All",
+      "metadata": {
+        "page_number": 6,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Row Labels Sum of Discharge Ratio Andaman and Nicobar 98.23 Andhra Pradesh 99.15 Arunachal Pradesh 99.42 Assam 98.48 Bihar 98.67 Chandigarh 98.71 Chhattisgarh 98.63 Daman and Diu 99.96 Delhi 98.23 Goa 97.96 Gujarat 98.75 Haryana 98.68 Himachal Pradesh 97.82 Jammu and Kashmir 98.23 Jharkhand 98.49 Karnataka 98.46 Kerala 97.92 Ladakh 98.27 Lakshadweep 99.51 Madhya Pradesh 98.66 Maharashtra 97.64 Manipur 97.79 Meghalaya 97.93 Mizoram 95.25 Nagaland 97.33 Odisha 98.96 Puducherry 98.33 Punjab 97.2 Rajasthan 99.05 Sikkim 98.38 Tamil Nadu 98.3 Telengana 98.85 Tripura 98.9 Uttar Pradesh 98.66 Uttarakhand 97.8 West Bengal 98.29 Grand Total 3540.89",
+      "metadata": {
+        "page_number": 6,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Death Avg All",
+      "metadata": {
+        "page_number": 7,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "Row Labels Sum of Death Ratio Punjab 2.75 Nagaland 2.16 Uttarakhand 2.15 Maharashtra 2.12 Goa 1.89 Meghalaya 1.74 Delhi 1.74 Himachal Pradesh 1.69 Andaman and Nicobar 1.68 Manipur 1.56 Jharkhand 1.47 Puducherry 1.45 Chhattisgarh 1.35 Tamil Nadu 1.34 Uttar Pradesh 1.34 Jammu and Kashmir 1.33 Madhya Pradesh 1.33 Bihar 1.33 Haryana 1.3 Karnataka 1.27 Chandigarh 1.25 Sikkim 1.25 Gujarat 1.22 West Bengal 1.2 Ladakh 1 Assam 0.99 Tripura 0.96 Rajasthan 0.94 Odisha 0.8 Kerala 0.71 Andhra Pradesh 0.7 Telengana 0.59 Arunachal Pradesh 0.51 Lakshadweep 0.49 Mizoram 0.36 Daman and Diu 0.04 Grand Total 46",
+      "metadata": {
+        "page_number": 7,
+        "filename": "Covid Dashboard.xlsx"
+      }
+    }
+  ],
+  "titles": [
+    "Total Cases",
+    "Recovered",
+    "Active"
+  ],
+  "narrative_text": [],
+  "tables": [
+    "State/UTs Zone Total Cases Active Discharged Deaths Active Ratio Discharge Ratio Discharge Avg Death Ratio Death Avg Population Andaman and Nicobar South 7670 7 7534 129 0.09 98.23 Below Average 1.68 Above Average 399001 Andhra Pradesh South 2069770 3128 2052230 14412 0.15 99.15 Above Average 0.7 Below Average 91702478 Arunachal Pradesh East 55216 42 54894 280 0.08 99.42 Above Average 0.51 Below Average 1711947 Assam East 613784 3272 604465 6047 0.53 98.48 Above Average 0.99 Below Average 35998752 Bihar East 726153 29 716462 9662 0 98.67 Above Average 1.33 Above Average 128500364 Chandigarh North 65380 24 64536 820 0.04 98.71 Above Average 1.25 Below Average 1158040 Chhattisgarh East 1006326 230 992508 13588 0.02 98.63 Above Average 1.35 Above Average 32199722 Daman and Diu West 10682 0 10678 4 0 99.96 Above Average 0.04 Below Average 773997 Delhi North 1440388 361 1414934 25093 0.03 98.23 Below Average 1.74 Above Average 19301096 Goa West 178467 263 174830 3374 0.15 97.96 Below Average 1.89 Above Average 1521992 Gujarat West 826924 226 816608 10090 0.03 98.75 Above Average 1.22 Below Average 70400153 Haryana North 771420 140 761230 10050 0.02 98.68 Above Average 1.3 Above Average 28900667 Himachal Pradesh North 225712 1100 220800 3812 0.49 97.82 Below Average 1.69 Above Average 7503010 Jammu and Kashmir North 334006 1450 328108 4448 0.43 98.23 Below Average 1.33 Above Average 14999397 Jharkhand East 348992 141 343713 5138 0.04 98.49 Above Average 1.47 Above Average 40100376 Karnataka South 2991614 8056 2945415 38143 0.27 98.46 Above Average 1.27 Below Average 69599762 Kerala South 5055224 69258 4950281 35685 1.37 97.92 Below Average 0.71 Below Average 34698876 Ladakh North 21148 154 20783 211 0.73 98.27 Below Average 1 Below Average 290492 Lakshadweep South 10365 0 10314 51 0 99.51 Above Average 0.49 Below Average 66001 Madhya Pradesh West 792956 75 782357 10524 0.01 98.66 Above Average 1.33 Above Average 85002417 Maharashtra West 6623344 15866 6466913 140565 0.24 97.64 Below Average 2.12 Above Average 124904071 Manipur East 124432 799 121687 1946 0.64 97.79 Below Average 1.56 Above Average 3436948 Meghalaya East 84013 277 82274 1462 0.33 97.93 Below Average 1.74 Above Average 3772103 Mizoram East 128604 5651 122494 459 4.39 95.25 Below Average 0.36 Below Average 1308967 Nagaland East 31978 163 31123 692 0.51 97.33 Below Average 2.16 Above Average 2073074 Odisha East 1045209 2534 1034300 8375 0.24 98.96 Above Average 0.8 Below Average 47099270 Puducherry South 128401 275 126263 1863 0.21 98.33 Below Average 1.45 Above Average 1646050 Punjab North 602778 318 585889 16571 0.05 97.2 Below Average 2.75 Above Average 30501026 Rajasthan West 954503 71 945478 8954 0.01 99.05 Above Average 0.94 Below Average 79502477 Sikkim East 32096 121 31575 400 0.38 98.38 Above Average 1.25 Below Average 658019 Tamil Nadu South 2714025 9751 2668001 36273 0.36 98.3 Below Average 1.34 Above Average 83697770 Telengana South 673469 3741 665755 3973 0.56 98.85 Above Average 0.59 Below Average 38157311 Tripura East 84665 116 83732 817 0.14 98.9 Above Average 0.96 Below Average 4184959 Uttar Pradesh North 1710261 90 1687262 22909 0.01 98.66 Above Average 1.34 Above Average 231502578 Uttarakhand North 344014 158 336453 7403 0.05 97.8 Below Average 2.15 Above Average 11700099 West Bengal East 1603318 8031 1575980 19307 0.5 98.29 Below Average 1.2 Below Average 100896618",
+    "Highest Least States Cases States Cases Maharashtra 6623344 Andaman Nicobar 7670 Kerala 5055224 Lakshadweep 10365 Karnataka 2991614 Daman and Diu 10682 Tamil Nadu 2714025 Ladakh 21148 Andhra Pradesh 2069770 Nagaland 31978",
+    "Highest Least States Recovered % States Recovered % Daman and Diu 99.96 Mizoram 95.25 Lakshadweep 99.51 Punjab 97.2 Arunachal Pradesh 99.42 Nagaland 97.33 Andhra Pradesh 99.15 Maharashtra 97.64 Rajasthan 99.05 Manipur 97.79 Death Highest Least States Death % States Death % Punjab 2.75 Daman and Diu 0.04 Nagaland 2.16 Mizoram 0.36 Uttarakhand 2.15 Lakshadweep 0.49 Maharashtra 2.12 Arunachal Pradesh 0.51 Goa 1.89 Telengana 0.59",
+    "Highest Least States Active % States Active % Mizoram 4.39 Lakshadweep 0 Kerala 1.37 Daman and Diu 0 Ladakh 0.73 Bihar 0 Manipur 0.64 MP 0.01 Telengana 0.56 Rajasthan 0.01",
+    "Row Labels Total Cases Discharged Andaman and Nicobar 7670 7534 Andhra Pradesh 2069770 2052230 Arunachal Pradesh 55216 54894 Assam 613784 604465 Bihar 726153 716462 Chandigarh 65380 64536 Chhattisgarh 1006326 992508 Daman and Diu 10682 10678 Delhi 1440388 1414934 Goa 178467 174830 Gujarat 826924 816608 Haryana 771420 761230 Himachal Pradesh 225712 220800 Jammu and Kashmir 334006 328108 Jharkhand 348992 343713 Karnataka 2991614 2945415 Kerala 5055224 4950281 Ladakh 21148 20783 Lakshadweep 10365 10314 Madhya Pradesh 792956 782357 Maharashtra 6623344 6466913 Manipur 124432 121687 Meghalaya 84013 82274 Mizoram 128604 122494 Nagaland 31978 31123 Odisha 1045209 1034300 Puducherry 128401 126263 Punjab 602778 585889 Rajasthan 954503 945478 Sikkim 32096 31575 Tamil Nadu 2714025 2668001 Telengana 673469 665755 Tripura 84665 83732 Uttar Pradesh 1710261 1687262 Uttarakhand 344014 336453 West Bengal 1603318 1575980 Grand Total 34437307 33837859",
+    "Row Labels Active Deaths Kerala 69258 35685 Maharashtra 15866 140565 Tamil Nadu 9751 36273 Karnataka 8056 38143 West Bengal 8031 19307 Mizoram 5651 459 Telengana 3741 3973 Assam 3272 6047 Andhra Pradesh 3128 14412 Odisha 2534 8375 Jammu and Kashmir 1450 4448 Himachal Pradesh 1100 3812 Manipur 799 1946 Delhi 361 25093 Punjab 318 16571 Meghalaya 277 1462 Puducherry 275 1863 Goa 263 3374 Chhattisgarh 230 13588 Gujarat 226 10090 Nagaland 163 692 Uttarakhand 158 7403 Ladakh 154 211 Jharkhand 141 5138 Haryana 140 10050 Sikkim 121 400 Tripura 116 817 Uttar Pradesh 90 22909 Madhya Pradesh 75 10524 Rajasthan 71 8954 Arunachal Pradesh 42 280 Bihar 29 9662 Chandigarh 24 820 Andaman and Nicobar 7 129 Daman and Diu 0 4 Lakshadweep 0 51 Grand Total 135918 463530",
+    "Row Labels Total Cases by Zone East 5884786 North 5515107 South 13650538 West 9386876 Grand Total 34437307",
+    "Discharge Avg All",
+    "Row Labels Sum of Discharge Ratio Andaman and Nicobar 98.23 Andhra Pradesh 99.15 Arunachal Pradesh 99.42 Assam 98.48 Bihar 98.67 Chandigarh 98.71 Chhattisgarh 98.63 Daman and Diu 99.96 Delhi 98.23 Goa 97.96 Gujarat 98.75 Haryana 98.68 Himachal Pradesh 97.82 Jammu and Kashmir 98.23 Jharkhand 98.49 Karnataka 98.46 Kerala 97.92 Ladakh 98.27 Lakshadweep 99.51 Madhya Pradesh 98.66 Maharashtra 97.64 Manipur 97.79 Meghalaya 97.93 Mizoram 95.25 Nagaland 97.33 Odisha 98.96 Puducherry 98.33 Punjab 97.2 Rajasthan 99.05 Sikkim 98.38 Tamil Nadu 98.3 Telengana 98.85 Tripura 98.9 Uttar Pradesh 98.66 Uttarakhand 97.8 West Bengal 98.29 Grand Total 3540.89",
+    "Death Avg All",
+    "Row Labels Sum of Death Ratio Punjab 2.75 Nagaland 2.16 Uttarakhand 2.15 Maharashtra 2.12 Goa 1.89 Meghalaya 1.74 Delhi 1.74 Himachal Pradesh 1.69 Andaman and Nicobar 1.68 Manipur 1.56 Jharkhand 1.47 Puducherry 1.45 Chhattisgarh 1.35 Tamil Nadu 1.34 Uttar Pradesh 1.34 Jammu and Kashmir 1.33 Madhya Pradesh 1.33 Bihar 1.33 Haryana 1.3 Karnataka 1.27 Chandigarh 1.25 Sikkim 1.25 Gujarat 1.22 West Bengal 1.2 Ladakh 1 Assam 0.99 Tripura 0.96 Rajasthan 0.94 Odisha 0.8 Kerala 0.71 Andhra Pradesh 0.7 Telengana 0.59 Arunachal Pradesh 0.51 Lakshadweep 0.49 Mizoram 0.36 Daman and Diu 0.04 Grand Total 46"
+  ],
+  "list_items": [],
+  "headers": [],
+  "footers": []
+}

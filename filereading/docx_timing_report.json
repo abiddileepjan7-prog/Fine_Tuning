@@ -1,0 +1,15 @@
+{
+  "source_file": "file-sample_100kB.docx",
+  "timings": {
+    "python_docx": {
+      "time_seconds": 0.0436,
+      "paragraphs_extracted": 22,
+      "chars_extracted": 5850,
+      "tables_found": 1
+    },
+    "mammoth": {
+      "time_seconds": 0.0466,
+      "html_length": 143017
+    }
+  }
+}

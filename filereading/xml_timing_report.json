@@ -1,0 +1,22 @@
+{
+  "source_file": "BhaRuns.xml",
+  "timings": {
+    "elementtree": {
+      "time_seconds": 0.049,
+      "bha_runs_found": 1
+    },
+    "lxml": {
+      "time_seconds": 0.0006,
+      "values_extracted": 8
+    },
+    "xmltodict": {
+      "time_seconds": 0.0005,
+      "top_level_keys": 1
+    },
+    "beautifulsoup": {
+      "time_seconds": 0.0016,
+      "well_name_found": true,
+      "run_name_found": true
+    }
+  }
+}

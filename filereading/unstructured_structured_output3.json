@@ -1,0 +1,157 @@
+{
+  "source_file": "modified.html",
+  "num_elements": 16,
+  "elements": [
+    {
+      "type": "Title",
+      "text": "Employee Management System",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "text": "This HTML file is created for learning HTML parsing using Python.",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Departments",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "ListItem",
+      "text": "IT",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "ListItem",
+      "text": "HR",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "ListItem",
+      "text": "Finance",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "ListItem",
+      "text": "Marketing",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Employee Table",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Table",
+      "text": "ID Name Department Salary 101 Alice HR 45000 102 Bob IT 70000 103 Charlie Finance 65000",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Useful Links",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "Python Pandas BeautifulSoup",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Employee Image",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Image",
+      "text": "Employee",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Login Form",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "Company Information",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "ABC Technologies Pvt Ltd",
+      "metadata": {
+        "page_number": null,
+        "filename": "modified.html"
+      }
+    }
+  ],
+  "titles": [
+    "Employee Management System",
+    "Departments",
+    "Employee Table",
+    "Useful Links",
+    "Employee Image",
+    "Login Form",
+    "Company Information"
+  ],
+  "narrative_text": [
+    "This HTML file is created for learning HTML parsing using Python."
+  ],
+  "tables": [
+    "ID Name Department Salary 101 Alice HR 45000 102 Bob IT 70000 103 Charlie Finance 65000"
+  ],
+  "list_items": [
+    "IT",
+    "HR",
+    "Finance",
+    "Marketing"
+  ],
+  "headers": [],
+  "footers": []
+}

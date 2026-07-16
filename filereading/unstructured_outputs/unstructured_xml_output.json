@@ -1,0 +1,439 @@
+{
+  "source_file": "BhaRuns.xml",
+  "file_type": "xml",
+  "num_elements": 53,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "PAM.Nq.M-2315(h)",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "PAM.Nq.M-2315(h)",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0100",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0100",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2023-10-22T16:30:00.000Z",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2023-11-02T21:30:00.000Z",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2023-10-23T04:15:00.000Z",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2023-11-01T15:30:00.000Z",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0.00675902265356854",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "6102.3623",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "17565.6172",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "14.57",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "269.9999",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "269.6",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "6102.3623",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "17565.6172",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "14.57",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "269.9999",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "269.6",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "6102.3623",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "17565.6172",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "14.57",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "269.9999",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "269.6",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "262.999791666667",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "6102.3623",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "17565.6172",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "6564.5",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "9850",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2400",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "14.57",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "270.0899",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "201.24984375",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "90.4",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "100",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "30",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "61.286089",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "15380",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "30000",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "201.79",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "181.19",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "1.2",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "94.76",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "0.93",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "87.34",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "279.06",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "4234.03",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2023-10-31T11:06:35.022Z",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Text",
+      "text": "2023-11-29T02:54:37.164Z",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    },
+    {
+      "type": "Title",
+      "text": "actual",
+      "metadata": {
+        "page_number": null,
+        "filename": "BhaRuns.xml"
+      }
+    }
+  ],
+  "titles": [
+    "actual"
+  ],
+  "narrative_text": [],
+  "tables": [],
+  "list_items": [],
+  "headers": [],
+  "footers": []
+}

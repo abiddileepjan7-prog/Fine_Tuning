@@ -1,0 +1,25 @@
+{
+  "source_file": "Copy of Stocks Trading Business Plan.pptx",
+  "timings": {
+    "python_pptx_load": {
+      "time_seconds": 0.1857,
+      "slides_found": 17
+    },
+    "python_pptx_text": {
+      "time_seconds": 0.0118,
+      "chars_extracted": 5126
+    },
+    "python_pptx_tables": {
+      "time_seconds": 0.0081,
+      "tables_found": 0
+    },
+    "python_pptx_charts": {
+      "time_seconds": 0.0058,
+      "charts_found": 0
+    },
+    "python_pptx_images": {
+      "time_seconds": 0.3479,
+      "images_found": 5
+    }
+  }
+}

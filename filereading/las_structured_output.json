@@ -1,0 +1,332 @@
+{
+  "source_file": "20220518_024622_Wellbore_00 1 1.las",
+  "version": {
+    "VERS": 2.0,
+    "WRAP": "NO"
+  },
+  "well_info": {
+    "STRT": "0:   2022/05/18 03:45 +00",
+    "STOP": "57:   2022/05/18 03:46 +00",
+    "STEP": "1",
+    "NULL": -999.25,
+    "COMP": "BAKER HUGHES",
+    "WELL": "BHI_DEMO_WIRELINE_DATA",
+    "WELLBORE": "WELLBORE_00",
+    "FLD": "N/A",
+    "LOC": "",
+    "PROV": "",
+    "SRVC": "BAKER HUGHES",
+    "DATE": "2022/09/06 06:39",
+    "UWI": "BHI_DEMO_WIRELINE_DATA"
+  },
+  "curves": [
+    {
+      "mnemonic": "TIME",
+      "unit": "S",
+      "description": "TIME"
+    },
+    {
+      "mnemonic": "DEPTH",
+      "unit": "ft",
+      "description": "TOOL STRING DEPTH"
+    },
+    {
+      "mnemonic": "SPEED",
+      "unit": "ft/s",
+      "description": "CABLE SPEED - SPEED"
+    }
+  ],
+  "params": {},
+  "data": [
+    {
+      "TIME": 0.0,
+      "DEPTH": 22706.3,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 1.0,
+      "DEPTH": 22706.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 2.0,
+      "DEPTH": 22706.6,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 3.0,
+      "DEPTH": 22706.7,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 4.0,
+      "DEPTH": 22706.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 5.0,
+      "DEPTH": 22707.0,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 6.0,
+      "DEPTH": 22707.3,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 7.0,
+      "DEPTH": 22707.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 8.0,
+      "DEPTH": 22707.6,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 9.0,
+      "DEPTH": 22707.8,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 10.0,
+      "DEPTH": 22707.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 11.0,
+      "DEPTH": 22708.1,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 12.0,
+      "DEPTH": 22708.2,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 13.0,
+      "DEPTH": 22708.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 14.0,
+      "DEPTH": 22708.6,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 15.0,
+      "DEPTH": 22708.8,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 16.0,
+      "DEPTH": 22708.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 17.0,
+      "DEPTH": 22709.1,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 18.0,
+      "DEPTH": 22709.2,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 19.0,
+      "DEPTH": 22709.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 20.0,
+      "DEPTH": 22709.5,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 21.0,
+      "DEPTH": 22709.8,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 22.0,
+      "DEPTH": 22709.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 23.0,
+      "DEPTH": 22710.1,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 24.0,
+      "DEPTH": 22710.3,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 25.0,
+      "DEPTH": 22710.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 26.0,
+      "DEPTH": 22710.6,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 27.0,
+      "DEPTH": 22710.7,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 28.0,
+      "DEPTH": 22711.0,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 29.0,
+      "DEPTH": 22711.0,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 30.0,
+      "DEPTH": 22711.3,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 31.0,
+      "DEPTH": 22711.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 32.0,
+      "DEPTH": 22711.5,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 33.0,
+      "DEPTH": 22711.7,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 34.0,
+      "DEPTH": 22711.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 35.0,
+      "DEPTH": 22712.1,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 36.0,
+      "DEPTH": 22712.2,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 37.0,
+      "DEPTH": 22712.5,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 38.0,
+      "DEPTH": 22712.5,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 39.0,
+      "DEPTH": 22712.7,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 40.0,
+      "DEPTH": 22712.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 41.0,
+      "DEPTH": 22713.1,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 42.0,
+      "DEPTH": 22713.2,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 43.0,
+      "DEPTH": 22713.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 44.0,
+      "DEPTH": 22713.5,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 45.0,
+      "DEPTH": 22713.7,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 46.0,
+      "DEPTH": 22713.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 47.0,
+      "DEPTH": 22714.1,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 48.0,
+      "DEPTH": 22714.3,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 49.0,
+      "DEPTH": 22714.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 50.0,
+      "DEPTH": 22714.6,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 51.0,
+      "DEPTH": 22714.7,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 52.0,
+      "DEPTH": 22714.9,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 53.0,
+      "DEPTH": 22715.0,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 54.0,
+      "DEPTH": 22715.2,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 55.0,
+      "DEPTH": 22715.4,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 56.0,
+      "DEPTH": 22715.6,
+      "SPEED": 0.2
+    },
+    {
+      "TIME": 57.0,
+      "DEPTH": 22715.7,
+      "SPEED": 0.2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "library": "unstructured.io",
+  "files_processed": {
+    "pdf": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+    "docx": "file-sample_100kB.docx",
+    "pptx": "Copy of Stocks Trading Business Plan.pptx",
+    "html": "sample.html",
+    "xml": "BhaRuns.xml",
+    "xlsx": "Covid Dashboard.xlsx",
+    "csv": "Employee_Salary_Dataset.csv"
+  },
+  "timings": {
+    "pdf": {
+      "time_seconds": 7.6063,
+      "elements_found": 254,
+      "titles_found": 77,
+      "tables_found": 0,
+      "narrative_blocks_found": 106
+    },
+    "docx": {
+      "time_seconds": 0.193,
+      "elements_found": 23,
+      "titles_found": 1,
+      "tables_found": 1,
+      "narrative_blocks_found": 9
+    },
+    "pptx": {
+      "time_seconds": 0.1961,
+      "elements_found": 150,
+      "titles_found": 83,
+      "tables_found": 0,
+      "narrative_blocks_found": 35
+    },
+    "html": {
+      "time_seconds": 0.1575,
+      "elements_found": 16,
+      "titles_found": 7,
+      "tables_found": 1,
+      "narrative_blocks_found": 1
+    },
+    "xml": {
+      "time_seconds": 0.0768,
+      "elements_found": 53,
+      "titles_found": 1,
+      "tables_found": 0,
+      "narrative_blocks_found": 0
+    },
+    "xlsx": {
+      "time_seconds": 1.7652,
+      "elements_found": 14,
+      "titles_found": 3,
+      "tables_found": 11,
+      "narrative_blocks_found": 0
+    },
+    "csv": {
+      "time_seconds": 0.0156,
+      "elements_found": 1,
+      "titles_found": 0,
+      "tables_found": 1,
+      "narrative_blocks_found": 0
+    }
+  },
+  "note": "LAS format has no Unstructured.io partitioner and was skipped."
+}

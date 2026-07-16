@@ -1,0 +1,235 @@
+{
+  "source_file": "BhaRuns.xml",
+  "root_tag": "{http://www.witsml.org/schemas/1series}bhaRuns",
+  "bha_runs": [
+    {
+      "uid": "13914844-1773-37a2-9e98-f8cf6cd6ea37",
+      "well_uid": "bde31e0e-6870-4eac-b64c-e0d4ae38f4f6",
+      "wellbore_uid": "e4e62ed0-2803-44bf-b5d1-d033c5ee9dfd",
+      "well_name": "PAM.Nq.M-2315(h)",
+      "wellbore_name": "PAM.Nq.M-2315(h)",
+      "run_name": "0100",
+      "start": "2023-10-22T16:30:00.000Z",
+      "stop": "2023-11-02T21:30:00.000Z",
+      "mud_weight": [
+        "14.57"
+      ],
+      "flow_rate": [
+        "269.9999"
+      ]
+    }
+  ],
+  "raw_dict": {
+    "bhaRuns": {
+      "@xmlns": "http://www.witsml.org/schemas/1series",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@version": "1.4.1.1",
+      "bhaRun": {
+        "@uidWell": "bde31e0e-6870-4eac-b64c-e0d4ae38f4f6",
+        "@uidWellbore": "e4e62ed0-2803-44bf-b5d1-d033c5ee9dfd",
+        "@uid": "13914844-1773-37a2-9e98-f8cf6cd6ea37",
+        "nameWell": "PAM.Nq.M-2315(h)",
+        "nameWellbore": "PAM.Nq.M-2315(h)",
+        "name": "0100",
+        "tubular": {
+          "@uidRef": "81c9cb72-7373-32fc-a3c7-64f2f943f82b",
+          "#text": "0100"
+        },
+        "dTimStart": "2023-10-22T16:30:00.000Z",
+        "dTimStop": "2023-11-02T21:30:00.000Z",
+        "dTimStartDrilling": "2023-10-23T04:15:00.000Z",
+        "dTimStopDrilling": "2023-11-01T15:30:00.000Z",
+        "actDogleg": {
+          "@uom": "dega/100ft",
+          "#text": "0.00675902265356854"
+        },
+        "drillingParams": [
+          {
+            "@uid": "6e5049e0-7b74-4b2a-959f-f50c90a27b18",
+            "eTimOpBit": {
+              "@uom": "h",
+              "#text": "0"
+            },
+            "mdHoleStart": {
+              "@uom": "ft",
+              "#text": "6102.3623"
+            },
+            "mdHoleStop": {
+              "@uom": "ft",
+              "#text": "17565.6172"
+            },
+            "wtMud": {
+              "@uom": "lbm/galUS",
+              "#text": "14.57"
+            },
+            "flowratePump": {
+              "@uom": "galUS/min",
+              "#text": "269.9999"
+            },
+            "tempMudDhMx": {
+              "@uom": "degF",
+              "#text": "269.6"
+            }
+          },
+          {
+            "@uid": "8fc19536-8077-45a8-b3c1-98bc64c9d071",
+            "eTimOpBit": {
+              "@uom": "h",
+              "#text": "0"
+            },
+            "mdHoleStart": {
+              "@uom": "ft",
+              "#text": "6102.3623"
+            },
+            "mdHoleStop": {
+              "@uom": "ft",
+              "#text": "17565.6172"
+            },
+            "wtMud": {
+              "@uom": "lbm/galUS",
+              "#text": "14.57"
+            },
+            "flowratePump": {
+              "@uom": "galUS/min",
+              "#text": "269.9999"
+            },
+            "tempMudDhMx": {
+              "@uom": "degF",
+              "#text": "269.6"
+            }
+          },
+          {
+            "@uid": "cc7cb79e-ad24-4244-ad25-2f4dd83a5ba1",
+            "eTimOpBit": {
+              "@uom": "h",
+              "#text": "0"
+            },
+            "mdHoleStart": {
+              "@uom": "ft",
+              "#text": "6102.3623"
+            },
+            "mdHoleStop": {
+              "@uom": "ft",
+              "#text": "17565.6172"
+            },
+            "wtMud": {
+              "@uom": "lbm/galUS",
+              "#text": "14.57"
+            },
+            "flowratePump": {
+              "@uom": "galUS/min",
+              "#text": "269.9999"
+            },
+            "tempMudDhMx": {
+              "@uom": "degF",
+              "#text": "269.6"
+            }
+          },
+          {
+            "@uid": "e597e1e5-608d-4bef-95de-8bf59a5b88a2",
+            "eTimOpBit": {
+              "@uom": "h",
+              "#text": "262.999791666667"
+            },
+            "mdHoleStart": {
+              "@uom": "ft",
+              "#text": "6102.3623"
+            },
+            "mdHoleStop": {
+              "@uom": "ft",
+              "#text": "17565.6172"
+            },
+            "tqOnBotAv": {
+              "@uom": "lbf.ft",
+              "#text": "6564.5"
+            },
+            "tqOnBotMx": {
+              "@uom": "lbf.ft",
+              "#text": "9850"
+            },
+            "tqOnBotMn": {
+              "@uom": "lbf.ft",
+              "#text": "2400"
+            },
+            "wtMud": {
+              "@uom": "lbm/galUS",
+              "#text": "14.57"
+            },
+            "flowratePump": {
+              "@uom": "galUS/min",
+              "#text": "270.0899"
+            },
+            "cTimCirc": {
+              "@uom": "h",
+              "#text": "201.24984375"
+            },
+            "rpmAv": {
+              "@uom": "rpm",
+              "#text": "90.4"
+            },
+            "rpmMx": {
+              "@uom": "rpm",
+              "#text": "100"
+            },
+            "rpmMn": {
+              "@uom": "rpm",
+              "#text": "30"
+            },
+            "ropAv": {
+              "@uom": "ft/h",
+              "#text": "61.286089"
+            },
+            "wobAv": {
+              "@uom": "lbf",
+              "#text": "15380"
+            },
+            "wobMx": {
+              "@uom": "lbf",
+              "#text": "30000"
+            },
+            "aziTop": {
+              "@uom": "dega",
+              "#text": "201.79"
+            },
+            "aziBottom": {
+              "@uom": "dega",
+              "#text": "181.19"
+            },
+            "inclStart": {
+              "@uom": "dega",
+              "#text": "1.2"
+            },
+            "inclMx": {
+              "@uom": "dega",
+              "#text": "94.76"
+            },
+            "inclMn": {
+              "@uom": "dega",
+              "#text": "0.93"
+            },
+            "inclStop": {
+              "@uom": "dega",
+              "#text": "87.34"
+            },
+            "tempMudDhMx": {
+              "@uom": "degF",
+              "#text": "279.06"
+            },
+            "presPumpAv": {
+              "@uom": "psig",
+              "#text": "4234.03"
+            }
+          }
+        ],
+        "commonData": {
+          "dTimCreation": "2023-10-31T11:06:35.022Z",
+          "dTimLastChange": "2023-11-29T02:54:37.164Z",
+          "itemState": "actual"
+        }
+      }
+    }
+  },
+  "_validation": {
+    "well_name_match": true
+  }
+}

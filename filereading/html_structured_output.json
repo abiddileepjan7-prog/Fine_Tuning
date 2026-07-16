@@ -1,0 +1,93 @@
+{
+  "source_file": "sample.html",
+  "title": "Employee Management System",
+  "headings": {
+    "h1": [
+      "Employee Management System"
+    ],
+    "h2": [
+      "Departments",
+      "Employee Table",
+      "Useful Links",
+      "Employee Image",
+      "Login Form"
+    ],
+    "h3": [
+      "Company Information"
+    ]
+  },
+  "paragraphs": [
+    "This HTML file is created for learning HTML parsing using Python.",
+    "ABC Technologies Pvt Ltd"
+  ],
+  "links": [
+    {
+      "text": "Python",
+      "url": "https://www.python.org"
+    },
+    {
+      "text": "Pandas",
+      "url": "https://pandas.pydata.org"
+    },
+    {
+      "text": "BeautifulSoup",
+      "url": "https://beautiful-soup-4.readthedocs.io"
+    }
+  ],
+  "images": [
+    "employee.png"
+  ],
+  "tables": [
+    [
+      [
+        "ID",
+        "Name",
+        "Department",
+        "Salary"
+      ],
+      [
+        "101",
+        "Alice",
+        "HR",
+        "45000"
+      ],
+      [
+        "102",
+        "Bob",
+        "IT",
+        "70000"
+      ],
+      [
+        "103",
+        "Charlie",
+        "Finance",
+        "65000"
+      ]
+    ]
+  ],
+  "lists": [
+    "IT",
+    "HR",
+    "Finance",
+    "Marketing"
+  ],
+  "forms": [
+    {
+      "inputs": [
+        {
+          "type": "text",
+          "name": "username"
+        },
+        {
+          "type": "password",
+          "name": "password"
+        }
+      ]
+    }
+  ],
+  "_validation": {
+    "title_match": true,
+    "links_count_match": true,
+    "images_count_match": true
+  }
+}

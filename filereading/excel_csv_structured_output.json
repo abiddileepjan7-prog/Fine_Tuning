@@ -1,0 +1,1818 @@
+{
+  "excel": {
+    "source_file": "Covid Dashboard.xlsx",
+    "sheet_names": [
+      "Data",
+      "DashBoard",
+      "Cases and Recovered",
+      "Active And Deaths",
+      "States and Zones",
+      "Recovered Index",
+      "Death Index"
+    ],
+    "sheets": [
+      {
+        "sheet_name": "Data",
+        "num_rows": 36,
+        "num_columns": 12,
+        "columns": [
+          "State/UTs",
+          "Zone",
+          "Total Cases",
+          "Active",
+          "Discharged",
+          "Deaths",
+          "Active Ratio",
+          "Discharge Ratio",
+          "Discharge Avg",
+          "Death Ratio",
+          "Death Avg",
+          "Population"
+        ],
+        "records": [
+          {
+            "State/UTs": "Andaman and Nicobar",
+            "Zone": "South",
+            "Total Cases": 7670,
+            "Active": 7,
+            "Discharged": 7534,
+            "Deaths": 129,
+            "Active Ratio": 0.09,
+            "Discharge Ratio": 98.23,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.68,
+            "Death Avg": "Above Average",
+            "Population": 399001
+          },
+          {
+            "State/UTs": "Andhra Pradesh",
+            "Zone": "South",
+            "Total Cases": 2069770,
+            "Active": 3128,
+            "Discharged": 2052230,
+            "Deaths": 14412,
+            "Active Ratio": 0.15,
+            "Discharge Ratio": 99.15,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.7,
+            "Death Avg": "Below Average",
+            "Population": 91702478
+          },
+          {
+            "State/UTs": "Arunachal Pradesh",
+            "Zone": "East",
+            "Total Cases": 55216,
+            "Active": 42,
+            "Discharged": 54894,
+            "Deaths": 280,
+            "Active Ratio": 0.08,
+            "Discharge Ratio": 99.42,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.51,
+            "Death Avg": "Below Average",
+            "Population": 1711947
+          },
+          {
+            "State/UTs": "Assam",
+            "Zone": "East",
+            "Total Cases": 613784,
+            "Active": 3272,
+            "Discharged": 604465,
+            "Deaths": 6047,
+            "Active Ratio": 0.53,
+            "Discharge Ratio": 98.48,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.99,
+            "Death Avg": "Below Average",
+            "Population": 35998752
+          },
+          {
+            "State/UTs": "Bihar",
+            "Zone": "East",
+            "Total Cases": 726153,
+            "Active": 29,
+            "Discharged": 716462,
+            "Deaths": 9662,
+            "Active Ratio": 0.0,
+            "Discharge Ratio": 98.67,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.33,
+            "Death Avg": "Above Average",
+            "Population": 128500364
+          },
+          {
+            "State/UTs": "Chandigarh",
+            "Zone": "North",
+            "Total Cases": 65380,
+            "Active": 24,
+            "Discharged": 64536,
+            "Deaths": 820,
+            "Active Ratio": 0.04,
+            "Discharge Ratio": 98.71,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.25,
+            "Death Avg": "Below Average",
+            "Population": 1158040
+          },
+          {
+            "State/UTs": "Chhattisgarh",
+            "Zone": "East",
+            "Total Cases": 1006326,
+            "Active": 230,
+            "Discharged": 992508,
+            "Deaths": 13588,
+            "Active Ratio": 0.02,
+            "Discharge Ratio": 98.63,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.35,
+            "Death Avg": "Above Average",
+            "Population": 32199722
+          },
+          {
+            "State/UTs": "Daman and Diu",
+            "Zone": "West",
+            "Total Cases": 10682,
+            "Active": 0,
+            "Discharged": 10678,
+            "Deaths": 4,
+            "Active Ratio": 0.0,
+            "Discharge Ratio": 99.96,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.04,
+            "Death Avg": "Below Average",
+            "Population": 773997
+          },
+          {
+            "State/UTs": "Delhi",
+            "Zone": "North",
+            "Total Cases": 1440388,
+            "Active": 361,
+            "Discharged": 1414934,
+            "Deaths": 25093,
+            "Active Ratio": 0.03,
+            "Discharge Ratio": 98.23,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.74,
+            "Death Avg": "Above Average",
+            "Population": 19301096
+          },
+          {
+            "State/UTs": "Goa",
+            "Zone": "West",
+            "Total Cases": 178467,
+            "Active": 263,
+            "Discharged": 174830,
+            "Deaths": 3374,
+            "Active Ratio": 0.15,
+            "Discharge Ratio": 97.96,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.89,
+            "Death Avg": "Above Average",
+            "Population": 1521992
+          },
+          {
+            "State/UTs": "Gujarat",
+            "Zone": "West",
+            "Total Cases": 826924,
+            "Active": 226,
+            "Discharged": 816608,
+            "Deaths": 10090,
+            "Active Ratio": 0.03,
+            "Discharge Ratio": 98.75,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.22,
+            "Death Avg": "Below Average",
+            "Population": 70400153
+          },
+          {
+            "State/UTs": "Haryana",
+            "Zone": "North",
+            "Total Cases": 771420,
+            "Active": 140,
+            "Discharged": 761230,
+            "Deaths": 10050,
+            "Active Ratio": 0.02,
+            "Discharge Ratio": 98.68,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.3,
+            "Death Avg": "Above Average",
+            "Population": 28900667
+          },
+          {
+            "State/UTs": "Himachal Pradesh",
+            "Zone": "North",
+            "Total Cases": 225712,
+            "Active": 1100,
+            "Discharged": 220800,
+            "Deaths": 3812,
+            "Active Ratio": 0.49,
+            "Discharge Ratio": 97.82,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.69,
+            "Death Avg": "Above Average",
+            "Population": 7503010
+          },
+          {
+            "State/UTs": "Jammu and Kashmir",
+            "Zone": "North",
+            "Total Cases": 334006,
+            "Active": 1450,
+            "Discharged": 328108,
+            "Deaths": 4448,
+            "Active Ratio": 0.43,
+            "Discharge Ratio": 98.23,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.33,
+            "Death Avg": "Above Average",
+            "Population": 14999397
+          },
+          {
+            "State/UTs": "Jharkhand",
+            "Zone": "East",
+            "Total Cases": 348992,
+            "Active": 141,
+            "Discharged": 343713,
+            "Deaths": 5138,
+            "Active Ratio": 0.04,
+            "Discharge Ratio": 98.49,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.47,
+            "Death Avg": "Above Average",
+            "Population": 40100376
+          },
+          {
+            "State/UTs": "Karnataka",
+            "Zone": "South",
+            "Total Cases": 2991614,
+            "Active": 8056,
+            "Discharged": 2945415,
+            "Deaths": 38143,
+            "Active Ratio": 0.27,
+            "Discharge Ratio": 98.46,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.27,
+            "Death Avg": "Below Average",
+            "Population": 69599762
+          },
+          {
+            "State/UTs": "Kerala",
+            "Zone": "South",
+            "Total Cases": 5055224,
+            "Active": 69258,
+            "Discharged": 4950281,
+            "Deaths": 35685,
+            "Active Ratio": 1.37,
+            "Discharge Ratio": 97.92,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 0.71,
+            "Death Avg": "Below Average",
+            "Population": 34698876
+          },
+          {
+            "State/UTs": "Ladakh",
+            "Zone": "North",
+            "Total Cases": 21148,
+            "Active": 154,
+            "Discharged": 20783,
+            "Deaths": 211,
+            "Active Ratio": 0.73,
+            "Discharge Ratio": 98.27,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.0,
+            "Death Avg": "Below Average",
+            "Population": 290492
+          },
+          {
+            "State/UTs": "Lakshadweep",
+            "Zone": "South",
+            "Total Cases": 10365,
+            "Active": 0,
+            "Discharged": 10314,
+            "Deaths": 51,
+            "Active Ratio": 0.0,
+            "Discharge Ratio": 99.51,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.49,
+            "Death Avg": "Below Average",
+            "Population": 66001
+          },
+          {
+            "State/UTs": "Madhya Pradesh",
+            "Zone": "West",
+            "Total Cases": 792956,
+            "Active": 75,
+            "Discharged": 782357,
+            "Deaths": 10524,
+            "Active Ratio": 0.01,
+            "Discharge Ratio": 98.66,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.33,
+            "Death Avg": "Above Average",
+            "Population": 85002417
+          },
+          {
+            "State/UTs": "Maharashtra",
+            "Zone": "West",
+            "Total Cases": 6623344,
+            "Active": 15866,
+            "Discharged": 6466913,
+            "Deaths": 140565,
+            "Active Ratio": 0.24,
+            "Discharge Ratio": 97.64,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 2.12,
+            "Death Avg": "Above Average",
+            "Population": 124904071
+          },
+          {
+            "State/UTs": "Manipur",
+            "Zone": "East",
+            "Total Cases": 124432,
+            "Active": 799,
+            "Discharged": 121687,
+            "Deaths": 1946,
+            "Active Ratio": 0.64,
+            "Discharge Ratio": 97.79,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.56,
+            "Death Avg": "Above Average",
+            "Population": 3436948
+          },
+          {
+            "State/UTs": "Meghalaya",
+            "Zone": "East",
+            "Total Cases": 84013,
+            "Active": 277,
+            "Discharged": 82274,
+            "Deaths": 1462,
+            "Active Ratio": 0.33,
+            "Discharge Ratio": 97.93,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.74,
+            "Death Avg": "Above Average",
+            "Population": 3772103
+          },
+          {
+            "State/UTs": "Mizoram",
+            "Zone": "East",
+            "Total Cases": 128604,
+            "Active": 5651,
+            "Discharged": 122494,
+            "Deaths": 459,
+            "Active Ratio": 4.39,
+            "Discharge Ratio": 95.25,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 0.36,
+            "Death Avg": "Below Average",
+            "Population": 1308967
+          },
+          {
+            "State/UTs": "Nagaland",
+            "Zone": "East",
+            "Total Cases": 31978,
+            "Active": 163,
+            "Discharged": 31123,
+            "Deaths": 692,
+            "Active Ratio": 0.51,
+            "Discharge Ratio": 97.33,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 2.16,
+            "Death Avg": "Above Average",
+            "Population": 2073074
+          },
+          {
+            "State/UTs": "Odisha",
+            "Zone": "East",
+            "Total Cases": 1045209,
+            "Active": 2534,
+            "Discharged": 1034300,
+            "Deaths": 8375,
+            "Active Ratio": 0.24,
+            "Discharge Ratio": 98.96,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.8,
+            "Death Avg": "Below Average",
+            "Population": 47099270
+          },
+          {
+            "State/UTs": "Puducherry",
+            "Zone": "South",
+            "Total Cases": 128401,
+            "Active": 275,
+            "Discharged": 126263,
+            "Deaths": 1863,
+            "Active Ratio": 0.21,
+            "Discharge Ratio": 98.33,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.45,
+            "Death Avg": "Above Average",
+            "Population": 1646050
+          },
+          {
+            "State/UTs": "Punjab",
+            "Zone": "North",
+            "Total Cases": 602778,
+            "Active": 318,
+            "Discharged": 585889,
+            "Deaths": 16571,
+            "Active Ratio": 0.05,
+            "Discharge Ratio": 97.2,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 2.75,
+            "Death Avg": "Above Average",
+            "Population": 30501026
+          },
+          {
+            "State/UTs": "Rajasthan",
+            "Zone": "West",
+            "Total Cases": 954503,
+            "Active": 71,
+            "Discharged": 945478,
+            "Deaths": 8954,
+            "Active Ratio": 0.01,
+            "Discharge Ratio": 99.05,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.94,
+            "Death Avg": "Below Average",
+            "Population": 79502477
+          },
+          {
+            "State/UTs": "Sikkim",
+            "Zone": "East",
+            "Total Cases": 32096,
+            "Active": 121,
+            "Discharged": 31575,
+            "Deaths": 400,
+            "Active Ratio": 0.38,
+            "Discharge Ratio": 98.38,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.25,
+            "Death Avg": "Below Average",
+            "Population": 658019
+          },
+          {
+            "State/UTs": "Tamil Nadu",
+            "Zone": "South",
+            "Total Cases": 2714025,
+            "Active": 9751,
+            "Discharged": 2668001,
+            "Deaths": 36273,
+            "Active Ratio": 0.36,
+            "Discharge Ratio": 98.3,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.34,
+            "Death Avg": "Above Average",
+            "Population": 83697770
+          },
+          {
+            "State/UTs": "Telengana",
+            "Zone": "South",
+            "Total Cases": 673469,
+            "Active": 3741,
+            "Discharged": 665755,
+            "Deaths": 3973,
+            "Active Ratio": 0.56,
+            "Discharge Ratio": 98.85,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.59,
+            "Death Avg": "Below Average",
+            "Population": 38157311
+          },
+          {
+            "State/UTs": "Tripura",
+            "Zone": "East",
+            "Total Cases": 84665,
+            "Active": 116,
+            "Discharged": 83732,
+            "Deaths": 817,
+            "Active Ratio": 0.14,
+            "Discharge Ratio": 98.9,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 0.96,
+            "Death Avg": "Below Average",
+            "Population": 4184959
+          },
+          {
+            "State/UTs": "Uttar Pradesh",
+            "Zone": "North",
+            "Total Cases": 1710261,
+            "Active": 90,
+            "Discharged": 1687262,
+            "Deaths": 22909,
+            "Active Ratio": 0.01,
+            "Discharge Ratio": 98.66,
+            "Discharge Avg": "Above Average",
+            "Death Ratio": 1.34,
+            "Death Avg": "Above Average",
+            "Population": 231502578
+          },
+          {
+            "State/UTs": "Uttarakhand",
+            "Zone": "North",
+            "Total Cases": 344014,
+            "Active": 158,
+            "Discharged": 336453,
+            "Deaths": 7403,
+            "Active Ratio": 0.05,
+            "Discharge Ratio": 97.8,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 2.15,
+            "Death Avg": "Above Average",
+            "Population": 11700099
+          },
+          {
+            "State/UTs": "West Bengal",
+            "Zone": "East",
+            "Total Cases": 1603318,
+            "Active": 8031,
+            "Discharged": 1575980,
+            "Deaths": 19307,
+            "Active Ratio": 0.5,
+            "Discharge Ratio": 98.29,
+            "Discharge Avg": "Below Average",
+            "Death Ratio": 1.2,
+            "Death Avg": "Below Average",
+            "Population": 100896618
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 0
+      },
+      {
+        "sheet_name": "DashBoard",
+        "num_rows": 37,
+        "num_columns": 4,
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3"
+        ],
+        "records": [
+          {
+            "Unnamed: 0": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Total Cases",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Highest",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Least",
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "States",
+            "Unnamed: 1": "Cases",
+            "Unnamed: 2": "States",
+            "Unnamed: 3": "Cases"
+          },
+          {
+            "Unnamed: 0": "Maharashtra",
+            "Unnamed: 1": 6623344,
+            "Unnamed: 2": "Andaman Nicobar",
+            "Unnamed: 3": 7670
+          },
+          {
+            "Unnamed: 0": "Kerala",
+            "Unnamed: 1": 5055224,
+            "Unnamed: 2": "Lakshadweep",
+            "Unnamed: 3": 10365
+          },
+          {
+            "Unnamed: 0": "Karnataka",
+            "Unnamed: 1": 2991614,
+            "Unnamed: 2": "Daman and Diu",
+            "Unnamed: 3": 10682
+          },
+          {
+            "Unnamed: 0": "Tamil Nadu",
+            "Unnamed: 1": 2714025,
+            "Unnamed: 2": "Ladakh",
+            "Unnamed: 3": 21148
+          },
+          {
+            "Unnamed: 0": "Andhra Pradesh",
+            "Unnamed: 1": 2069770,
+            "Unnamed: 2": "Nagaland",
+            "Unnamed: 3": 31978
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Recovered",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Highest",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Least",
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "States",
+            "Unnamed: 1": "Recovered %",
+            "Unnamed: 2": "States",
+            "Unnamed: 3": "Recovered %"
+          },
+          {
+            "Unnamed: 0": "Daman and Diu",
+            "Unnamed: 1": 99.96,
+            "Unnamed: 2": "Mizoram",
+            "Unnamed: 3": 95.25
+          },
+          {
+            "Unnamed: 0": "Lakshadweep",
+            "Unnamed: 1": 99.51,
+            "Unnamed: 2": "Punjab",
+            "Unnamed: 3": 97.2
+          },
+          {
+            "Unnamed: 0": "Arunachal Pradesh",
+            "Unnamed: 1": 99.42,
+            "Unnamed: 2": "Nagaland",
+            "Unnamed: 3": 97.33
+          },
+          {
+            "Unnamed: 0": "Andhra Pradesh",
+            "Unnamed: 1": 99.15,
+            "Unnamed: 2": "Maharashtra",
+            "Unnamed: 3": 97.64
+          },
+          {
+            "Unnamed: 0": "Rajasthan",
+            "Unnamed: 1": 99.05,
+            "Unnamed: 2": "Manipur",
+            "Unnamed: 3": 97.79
+          },
+          {
+            "Unnamed: 0": "Death",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Highest",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Least",
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "States",
+            "Unnamed: 1": "Death %",
+            "Unnamed: 2": "States",
+            "Unnamed: 3": "Death %"
+          },
+          {
+            "Unnamed: 0": "Punjab",
+            "Unnamed: 1": 2.75,
+            "Unnamed: 2": "Daman and Diu",
+            "Unnamed: 3": 0.04
+          },
+          {
+            "Unnamed: 0": "Nagaland",
+            "Unnamed: 1": 2.16,
+            "Unnamed: 2": "Mizoram",
+            "Unnamed: 3": 0.36
+          },
+          {
+            "Unnamed: 0": "Uttarakhand",
+            "Unnamed: 1": 2.15,
+            "Unnamed: 2": "Lakshadweep",
+            "Unnamed: 3": 0.49
+          },
+          {
+            "Unnamed: 0": "Maharashtra",
+            "Unnamed: 1": 2.12,
+            "Unnamed: 2": "Arunachal Pradesh",
+            "Unnamed: 3": 0.51
+          },
+          {
+            "Unnamed: 0": "Goa",
+            "Unnamed: 1": 1.89,
+            "Unnamed: 2": "Telengana",
+            "Unnamed: 3": 0.59
+          },
+          {
+            "Unnamed: 0": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Active",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN,
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "Highest",
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": "Least",
+            "Unnamed: 3": NaN
+          },
+          {
+            "Unnamed: 0": "States",
+            "Unnamed: 1": "Active %",
+            "Unnamed: 2": "States",
+            "Unnamed: 3": "Active %"
+          },
+          {
+            "Unnamed: 0": "Mizoram",
+            "Unnamed: 1": 4.39,
+            "Unnamed: 2": "Lakshadweep",
+            "Unnamed: 3": 0
+          },
+          {
+            "Unnamed: 0": "Kerala",
+            "Unnamed: 1": 1.37,
+            "Unnamed: 2": "Daman and Diu",
+            "Unnamed: 3": 0
+          },
+          {
+            "Unnamed: 0": "Ladakh",
+            "Unnamed: 1": 0.73,
+            "Unnamed: 2": "Bihar",
+            "Unnamed: 3": 0
+          },
+          {
+            "Unnamed: 0": "Manipur",
+            "Unnamed: 1": 0.64,
+            "Unnamed: 2": "MP",
+            "Unnamed: 3": 0.01
+          },
+          {
+            "Unnamed: 0": "Telengana",
+            "Unnamed: 1": 0.56,
+            "Unnamed: 2": "Rajasthan",
+            "Unnamed: 3": 0.01
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 5
+      },
+      {
+        "sheet_name": "Cases and Recovered",
+        "num_rows": 39,
+        "num_columns": 3,
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2"
+        ],
+        "records": [
+          {
+            "Unnamed: 0": NaN,
+            "Unnamed: 1": NaN,
+            "Unnamed: 2": NaN
+          },
+          {
+            "Unnamed: 0": "Row Labels",
+            "Unnamed: 1": "Total Cases",
+            "Unnamed: 2": "Discharged"
+          },
+          {
+            "Unnamed: 0": "Andaman and Nicobar",
+            "Unnamed: 1": 7670,
+            "Unnamed: 2": 7534
+          },
+          {
+            "Unnamed: 0": "Andhra Pradesh",
+            "Unnamed: 1": 2069770,
+            "Unnamed: 2": 2052230
+          },
+          {
+            "Unnamed: 0": "Arunachal Pradesh",
+            "Unnamed: 1": 55216,
+            "Unnamed: 2": 54894
+          },
+          {
+            "Unnamed: 0": "Assam",
+            "Unnamed: 1": 613784,
+            "Unnamed: 2": 604465
+          },
+          {
+            "Unnamed: 0": "Bihar",
+            "Unnamed: 1": 726153,
+            "Unnamed: 2": 716462
+          },
+          {
+            "Unnamed: 0": "Chandigarh",
+            "Unnamed: 1": 65380,
+            "Unnamed: 2": 64536
+          },
+          {
+            "Unnamed: 0": "Chhattisgarh",
+            "Unnamed: 1": 1006326,
+            "Unnamed: 2": 992508
+          },
+          {
+            "Unnamed: 0": "Daman and Diu",
+            "Unnamed: 1": 10682,
+            "Unnamed: 2": 10678
+          },
+          {
+            "Unnamed: 0": "Delhi",
+            "Unnamed: 1": 1440388,
+            "Unnamed: 2": 1414934
+          },
+          {
+            "Unnamed: 0": "Goa",
+            "Unnamed: 1": 178467,
+            "Unnamed: 2": 174830
+          },
+          {
+            "Unnamed: 0": "Gujarat",
+            "Unnamed: 1": 826924,
+            "Unnamed: 2": 816608
+          },
+          {
+            "Unnamed: 0": "Haryana",
+            "Unnamed: 1": 771420,
+            "Unnamed: 2": 761230
+          },
+          {
+            "Unnamed: 0": "Himachal Pradesh",
+            "Unnamed: 1": 225712,
+            "Unnamed: 2": 220800
+          },
+          {
+            "Unnamed: 0": "Jammu and Kashmir",
+            "Unnamed: 1": 334006,
+            "Unnamed: 2": 328108
+          },
+          {
+            "Unnamed: 0": "Jharkhand",
+            "Unnamed: 1": 348992,
+            "Unnamed: 2": 343713
+          },
+          {
+            "Unnamed: 0": "Karnataka",
+            "Unnamed: 1": 2991614,
+            "Unnamed: 2": 2945415
+          },
+          {
+            "Unnamed: 0": "Kerala",
+            "Unnamed: 1": 5055224,
+            "Unnamed: 2": 4950281
+          },
+          {
+            "Unnamed: 0": "Ladakh",
+            "Unnamed: 1": 21148,
+            "Unnamed: 2": 20783
+          },
+          {
+            "Unnamed: 0": "Lakshadweep",
+            "Unnamed: 1": 10365,
+            "Unnamed: 2": 10314
+          },
+          {
+            "Unnamed: 0": "Madhya Pradesh",
+            "Unnamed: 1": 792956,
+            "Unnamed: 2": 782357
+          },
+          {
+            "Unnamed: 0": "Maharashtra",
+            "Unnamed: 1": 6623344,
+            "Unnamed: 2": 6466913
+          },
+          {
+            "Unnamed: 0": "Manipur",
+            "Unnamed: 1": 124432,
+            "Unnamed: 2": 121687
+          },
+          {
+            "Unnamed: 0": "Meghalaya",
+            "Unnamed: 1": 84013,
+            "Unnamed: 2": 82274
+          },
+          {
+            "Unnamed: 0": "Mizoram",
+            "Unnamed: 1": 128604,
+            "Unnamed: 2": 122494
+          },
+          {
+            "Unnamed: 0": "Nagaland",
+            "Unnamed: 1": 31978,
+            "Unnamed: 2": 31123
+          },
+          {
+            "Unnamed: 0": "Odisha",
+            "Unnamed: 1": 1045209,
+            "Unnamed: 2": 1034300
+          },
+          {
+            "Unnamed: 0": "Puducherry",
+            "Unnamed: 1": 128401,
+            "Unnamed: 2": 126263
+          },
+          {
+            "Unnamed: 0": "Punjab",
+            "Unnamed: 1": 602778,
+            "Unnamed: 2": 585889
+          },
+          {
+            "Unnamed: 0": "Rajasthan",
+            "Unnamed: 1": 954503,
+            "Unnamed: 2": 945478
+          },
+          {
+            "Unnamed: 0": "Sikkim",
+            "Unnamed: 1": 32096,
+            "Unnamed: 2": 31575
+          },
+          {
+            "Unnamed: 0": "Tamil Nadu",
+            "Unnamed: 1": 2714025,
+            "Unnamed: 2": 2668001
+          },
+          {
+            "Unnamed: 0": "Telengana",
+            "Unnamed: 1": 673469,
+            "Unnamed: 2": 665755
+          },
+          {
+            "Unnamed: 0": "Tripura",
+            "Unnamed: 1": 84665,
+            "Unnamed: 2": 83732
+          },
+          {
+            "Unnamed: 0": "Uttar Pradesh",
+            "Unnamed: 1": 1710261,
+            "Unnamed: 2": 1687262
+          },
+          {
+            "Unnamed: 0": "Uttarakhand",
+            "Unnamed: 1": 344014,
+            "Unnamed: 2": 336453
+          },
+          {
+            "Unnamed: 0": "West Bengal",
+            "Unnamed: 1": 1603318,
+            "Unnamed: 2": 1575980
+          },
+          {
+            "Unnamed: 0": "Grand Total",
+            "Unnamed: 1": 34437307,
+            "Unnamed: 2": 33837859
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 0
+      },
+      {
+        "sheet_name": "Active And Deaths",
+        "num_rows": 37,
+        "num_columns": 3,
+        "columns": [
+          "Row Labels",
+          "Active",
+          "Deaths"
+        ],
+        "records": [
+          {
+            "Row Labels": "Kerala",
+            "Active": 69258,
+            "Deaths": 35685
+          },
+          {
+            "Row Labels": "Maharashtra",
+            "Active": 15866,
+            "Deaths": 140565
+          },
+          {
+            "Row Labels": "Tamil Nadu",
+            "Active": 9751,
+            "Deaths": 36273
+          },
+          {
+            "Row Labels": "Karnataka",
+            "Active": 8056,
+            "Deaths": 38143
+          },
+          {
+            "Row Labels": "West Bengal",
+            "Active": 8031,
+            "Deaths": 19307
+          },
+          {
+            "Row Labels": "Mizoram",
+            "Active": 5651,
+            "Deaths": 459
+          },
+          {
+            "Row Labels": "Telengana",
+            "Active": 3741,
+            "Deaths": 3973
+          },
+          {
+            "Row Labels": "Assam",
+            "Active": 3272,
+            "Deaths": 6047
+          },
+          {
+            "Row Labels": "Andhra Pradesh",
+            "Active": 3128,
+            "Deaths": 14412
+          },
+          {
+            "Row Labels": "Odisha",
+            "Active": 2534,
+            "Deaths": 8375
+          },
+          {
+            "Row Labels": "Jammu and Kashmir",
+            "Active": 1450,
+            "Deaths": 4448
+          },
+          {
+            "Row Labels": "Himachal Pradesh",
+            "Active": 1100,
+            "Deaths": 3812
+          },
+          {
+            "Row Labels": "Manipur",
+            "Active": 799,
+            "Deaths": 1946
+          },
+          {
+            "Row Labels": "Delhi",
+            "Active": 361,
+            "Deaths": 25093
+          },
+          {
+            "Row Labels": "Punjab",
+            "Active": 318,
+            "Deaths": 16571
+          },
+          {
+            "Row Labels": "Meghalaya",
+            "Active": 277,
+            "Deaths": 1462
+          },
+          {
+            "Row Labels": "Puducherry",
+            "Active": 275,
+            "Deaths": 1863
+          },
+          {
+            "Row Labels": "Goa",
+            "Active": 263,
+            "Deaths": 3374
+          },
+          {
+            "Row Labels": "Chhattisgarh",
+            "Active": 230,
+            "Deaths": 13588
+          },
+          {
+            "Row Labels": "Gujarat",
+            "Active": 226,
+            "Deaths": 10090
+          },
+          {
+            "Row Labels": "Nagaland",
+            "Active": 163,
+            "Deaths": 692
+          },
+          {
+            "Row Labels": "Uttarakhand",
+            "Active": 158,
+            "Deaths": 7403
+          },
+          {
+            "Row Labels": "Ladakh",
+            "Active": 154,
+            "Deaths": 211
+          },
+          {
+            "Row Labels": "Jharkhand",
+            "Active": 141,
+            "Deaths": 5138
+          },
+          {
+            "Row Labels": "Haryana",
+            "Active": 140,
+            "Deaths": 10050
+          },
+          {
+            "Row Labels": "Sikkim",
+            "Active": 121,
+            "Deaths": 400
+          },
+          {
+            "Row Labels": "Tripura",
+            "Active": 116,
+            "Deaths": 817
+          },
+          {
+            "Row Labels": "Uttar Pradesh",
+            "Active": 90,
+            "Deaths": 22909
+          },
+          {
+            "Row Labels": "Madhya Pradesh",
+            "Active": 75,
+            "Deaths": 10524
+          },
+          {
+            "Row Labels": "Rajasthan",
+            "Active": 71,
+            "Deaths": 8954
+          },
+          {
+            "Row Labels": "Arunachal Pradesh",
+            "Active": 42,
+            "Deaths": 280
+          },
+          {
+            "Row Labels": "Bihar",
+            "Active": 29,
+            "Deaths": 9662
+          },
+          {
+            "Row Labels": "Chandigarh",
+            "Active": 24,
+            "Deaths": 820
+          },
+          {
+            "Row Labels": "Andaman and Nicobar",
+            "Active": 7,
+            "Deaths": 129
+          },
+          {
+            "Row Labels": "Daman and Diu",
+            "Active": 0,
+            "Deaths": 4
+          },
+          {
+            "Row Labels": "Lakshadweep",
+            "Active": 0,
+            "Deaths": 51
+          },
+          {
+            "Row Labels": "Grand Total",
+            "Active": 135918,
+            "Deaths": 463530
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 0
+      },
+      {
+        "sheet_name": "States and Zones",
+        "num_rows": 5,
+        "num_columns": 2,
+        "columns": [
+          "Row Labels",
+          "Total Cases by Zone"
+        ],
+        "records": [
+          {
+            "Row Labels": "East",
+            "Total Cases by Zone": 5884786
+          },
+          {
+            "Row Labels": "North",
+            "Total Cases by Zone": 5515107
+          },
+          {
+            "Row Labels": "South",
+            "Total Cases by Zone": 13650538
+          },
+          {
+            "Row Labels": "West",
+            "Total Cases by Zone": 9386876
+          },
+          {
+            "Row Labels": "Grand Total",
+            "Total Cases by Zone": 34437307
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 0
+      },
+      {
+        "sheet_name": "Recovered Index",
+        "num_rows": 39,
+        "num_columns": 2,
+        "columns": [
+          "Discharge Avg",
+          "All"
+        ],
+        "records": [
+          {
+            "Discharge Avg": NaN,
+            "All": NaN
+          },
+          {
+            "Discharge Avg": "Row Labels",
+            "All": "Sum of Discharge Ratio"
+          },
+          {
+            "Discharge Avg": "Andaman and Nicobar",
+            "All": 98.23
+          },
+          {
+            "Discharge Avg": "Andhra Pradesh",
+            "All": 99.15
+          },
+          {
+            "Discharge Avg": "Arunachal Pradesh",
+            "All": 99.42
+          },
+          {
+            "Discharge Avg": "Assam",
+            "All": 98.48
+          },
+          {
+            "Discharge Avg": "Bihar",
+            "All": 98.67
+          },
+          {
+            "Discharge Avg": "Chandigarh",
+            "All": 98.71
+          },
+          {
+            "Discharge Avg": "Chhattisgarh",
+            "All": 98.63
+          },
+          {
+            "Discharge Avg": "Daman and Diu",
+            "All": 99.96
+          },
+          {
+            "Discharge Avg": "Delhi",
+            "All": 98.23
+          },
+          {
+            "Discharge Avg": "Goa",
+            "All": 97.96
+          },
+          {
+            "Discharge Avg": "Gujarat",
+            "All": 98.75
+          },
+          {
+            "Discharge Avg": "Haryana",
+            "All": 98.68
+          },
+          {
+            "Discharge Avg": "Himachal Pradesh",
+            "All": 97.82
+          },
+          {
+            "Discharge Avg": "Jammu and Kashmir",
+            "All": 98.23
+          },
+          {
+            "Discharge Avg": "Jharkhand",
+            "All": 98.49
+          },
+          {
+            "Discharge Avg": "Karnataka",
+            "All": 98.46
+          },
+          {
+            "Discharge Avg": "Kerala",
+            "All": 97.92
+          },
+          {
+            "Discharge Avg": "Ladakh",
+            "All": 98.27
+          },
+          {
+            "Discharge Avg": "Lakshadweep",
+            "All": 99.51
+          },
+          {
+            "Discharge Avg": "Madhya Pradesh",
+            "All": 98.66
+          },
+          {
+            "Discharge Avg": "Maharashtra",
+            "All": 97.64
+          },
+          {
+            "Discharge Avg": "Manipur",
+            "All": 97.79
+          },
+          {
+            "Discharge Avg": "Meghalaya",
+            "All": 97.93
+          },
+          {
+            "Discharge Avg": "Mizoram",
+            "All": 95.25
+          },
+          {
+            "Discharge Avg": "Nagaland",
+            "All": 97.33
+          },
+          {
+            "Discharge Avg": "Odisha",
+            "All": 98.96
+          },
+          {
+            "Discharge Avg": "Puducherry",
+            "All": 98.33
+          },
+          {
+            "Discharge Avg": "Punjab",
+            "All": 97.2
+          },
+          {
+            "Discharge Avg": "Rajasthan",
+            "All": 99.05
+          },
+          {
+            "Discharge Avg": "Sikkim",
+            "All": 98.38
+          },
+          {
+            "Discharge Avg": "Tamil Nadu",
+            "All": 98.3
+          },
+          {
+            "Discharge Avg": "Telengana",
+            "All": 98.85
+          },
+          {
+            "Discharge Avg": "Tripura",
+            "All": 98.9
+          },
+          {
+            "Discharge Avg": "Uttar Pradesh",
+            "All": 98.66
+          },
+          {
+            "Discharge Avg": "Uttarakhand",
+            "All": 97.8
+          },
+          {
+            "Discharge Avg": "West Bengal",
+            "All": 98.29
+          },
+          {
+            "Discharge Avg": "Grand Total",
+            "All": 3540.89
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 1
+      },
+      {
+        "sheet_name": "Death Index",
+        "num_rows": 39,
+        "num_columns": 2,
+        "columns": [
+          "Death Avg",
+          "All"
+        ],
+        "records": [
+          {
+            "Death Avg": NaN,
+            "All": NaN
+          },
+          {
+            "Death Avg": "Row Labels",
+            "All": "Sum of Death Ratio"
+          },
+          {
+            "Death Avg": "Punjab",
+            "All": 2.75
+          },
+          {
+            "Death Avg": "Nagaland",
+            "All": 2.16
+          },
+          {
+            "Death Avg": "Uttarakhand",
+            "All": 2.15
+          },
+          {
+            "Death Avg": "Maharashtra",
+            "All": 2.12
+          },
+          {
+            "Death Avg": "Goa",
+            "All": 1.89
+          },
+          {
+            "Death Avg": "Meghalaya",
+            "All": 1.74
+          },
+          {
+            "Death Avg": "Delhi",
+            "All": 1.74
+          },
+          {
+            "Death Avg": "Himachal Pradesh",
+            "All": 1.69
+          },
+          {
+            "Death Avg": "Andaman and Nicobar",
+            "All": 1.68
+          },
+          {
+            "Death Avg": "Manipur",
+            "All": 1.56
+          },
+          {
+            "Death Avg": "Jharkhand",
+            "All": 1.47
+          },
+          {
+            "Death Avg": "Puducherry",
+            "All": 1.45
+          },
+          {
+            "Death Avg": "Chhattisgarh",
+            "All": 1.35
+          },
+          {
+            "Death Avg": "Tamil Nadu",
+            "All": 1.34
+          },
+          {
+            "Death Avg": "Uttar Pradesh",
+            "All": 1.34
+          },
+          {
+            "Death Avg": "Jammu and Kashmir",
+            "All": 1.33
+          },
+          {
+            "Death Avg": "Madhya Pradesh",
+            "All": 1.33
+          },
+          {
+            "Death Avg": "Bihar",
+            "All": 1.33
+          },
+          {
+            "Death Avg": "Haryana",
+            "All": 1.3
+          },
+          {
+            "Death Avg": "Karnataka",
+            "All": 1.27
+          },
+          {
+            "Death Avg": "Chandigarh",
+            "All": 1.25
+          },
+          {
+            "Death Avg": "Sikkim",
+            "All": 1.25
+          },
+          {
+            "Death Avg": "Gujarat",
+            "All": 1.22
+          },
+          {
+            "Death Avg": "West Bengal",
+            "All": 1.2
+          },
+          {
+            "Death Avg": "Ladakh",
+            "All": 1
+          },
+          {
+            "Death Avg": "Assam",
+            "All": 0.99
+          },
+          {
+            "Death Avg": "Tripura",
+            "All": 0.96
+          },
+          {
+            "Death Avg": "Rajasthan",
+            "All": 0.94
+          },
+          {
+            "Death Avg": "Odisha",
+            "All": 0.8
+          },
+          {
+            "Death Avg": "Kerala",
+            "All": 0.71
+          },
+          {
+            "Death Avg": "Andhra Pradesh",
+            "All": 0.7
+          },
+          {
+            "Death Avg": "Telengana",
+            "All": 0.59
+          },
+          {
+            "Death Avg": "Arunachal Pradesh",
+            "All": 0.51
+          },
+          {
+            "Death Avg": "Lakshadweep",
+            "All": 0.49
+          },
+          {
+            "Death Avg": "Mizoram",
+            "All": 0.36
+          },
+          {
+            "Death Avg": "Daman and Diu",
+            "All": 0.04
+          },
+          {
+            "Death Avg": "Grand Total",
+            "All": 46
+          }
+        ],
+        "images_found": 0,
+        "charts_found": 1
+      }
+    ]
+  },
+  "csv": {
+    "source_file": "Employee_Salary_Dataset.csv",
+    "num_rows": 35,
+    "num_columns": 5,
+    "columns": [
+      "ID",
+      "Experience_Years",
+      "Age",
+      "Gender",
+      "Salary"
+    ],
+    "records": [
+      {
+        "ID": 1,
+        "Experience_Years": 5,
+        "Age": 28,
+        "Gender": "Female",
+        "Salary": 250000
+      },
+      {
+        "ID": 2,
+        "Experience_Years": 1,
+        "Age": 21,
+        "Gender": "Male",
+        "Salary": 50000
+      },
+      {
+        "ID": 3,
+        "Experience_Years": 3,
+        "Age": 23,
+        "Gender": "Female",
+        "Salary": 170000
+      },
+      {
+        "ID": 4,
+        "Experience_Years": 2,
+        "Age": 22,
+        "Gender": "Male",
+        "Salary": 25000
+      },
+      {
+        "ID": 5,
+        "Experience_Years": 1,
+        "Age": 17,
+        "Gender": "Male",
+        "Salary": 10000
+      },
+      {
+        "ID": 6,
+        "Experience_Years": 25,
+        "Age": 62,
+        "Gender": "Male",
+        "Salary": 5001000
+      },
+      {
+        "ID": 7,
+        "Experience_Years": 19,
+        "Age": 54,
+        "Gender": "Female",
+        "Salary": 800000
+      },
+      {
+        "ID": 8,
+        "Experience_Years": 2,
+        "Age": 21,
+        "Gender": "Female",
+        "Salary": 9000
+      },
+      {
+        "ID": 9,
+        "Experience_Years": 10,
+        "Age": 36,
+        "Gender": "Female",
+        "Salary": 61500
+      },
+      {
+        "ID": 10,
+        "Experience_Years": 15,
+        "Age": 54,
+        "Gender": "Female",
+        "Salary": 650000
+      },
+      {
+        "ID": 11,
+        "Experience_Years": 4,
+        "Age": 26,
+        "Gender": "Female",
+        "Salary": 250000
+      },
+      {
+        "ID": 12,
+        "Experience_Years": 6,
+        "Age": 29,
+        "Gender": "Male",
+        "Salary": 1400000
+      },
+      {
+        "ID": 13,
+        "Experience_Years": 14,
+        "Age": 39,
+        "Gender": "Male",
+        "Salary": 6000050
+      },
+      {
+        "ID": 14,
+        "Experience_Years": 11,
+        "Age": 40,
+        "Gender": "Male",
+        "Salary": 220100
+      },
+      {
+        "ID": 15,
+        "Experience_Years": 2,
+        "Age": 23,
+        "Gender": "Male",
+        "Salary": 7500
+      },
+      {
+        "ID": 16,
+        "Experience_Years": 4,
+        "Age": 27,
+        "Gender": "Female",
+        "Salary": 87000
+      },
+      {
+        "ID": 17,
+        "Experience_Years": 10,
+        "Age": 34,
+        "Gender": "Female",
+        "Salary": 930000
+      },
+      {
+        "ID": 18,
+        "Experience_Years": 15,
+        "Age": 54,
+        "Gender": "Female",
+        "Salary": 7900000
+      },
+      {
+        "ID": 19,
+        "Experience_Years": 2,
+        "Age": 21,
+        "Gender": "Male",
+        "Salary": 15000
+      },
+      {
+        "ID": 20,
+        "Experience_Years": 10,
+        "Age": 36,
+        "Gender": "Male",
+        "Salary": 330000
+      },
+      {
+        "ID": 21,
+        "Experience_Years": 15,
+        "Age": 54,
+        "Gender": "Male",
+        "Salary": 6570000
+      },
+      {
+        "ID": 22,
+        "Experience_Years": 4,
+        "Age": 26,
+        "Gender": "Male",
+        "Salary": 25000
+      },
+      {
+        "ID": 23,
+        "Experience_Years": 5,
+        "Age": 29,
+        "Gender": "Male",
+        "Salary": 6845000
+      },
+      {
+        "ID": 24,
+        "Experience_Years": 1,
+        "Age": 21,
+        "Gender": "Female",
+        "Salary": 6000
+      },
+      {
+        "ID": 25,
+        "Experience_Years": 4,
+        "Age": 23,
+        "Gender": "Female",
+        "Salary": 8900
+      },
+      {
+        "ID": 26,
+        "Experience_Years": 3,
+        "Age": 22,
+        "Gender": "Female",
+        "Salary": 20000
+      },
+      {
+        "ID": 27,
+        "Experience_Years": 1,
+        "Age": 18,
+        "Gender": "Male",
+        "Salary": 3000
+      },
+      {
+        "ID": 28,
+        "Experience_Years": 27,
+        "Age": 62,
+        "Gender": "Female",
+        "Salary": 10000000
+      },
+      {
+        "ID": 29,
+        "Experience_Years": 19,
+        "Age": 54,
+        "Gender": "Female",
+        "Salary": 5000000
+      },
+      {
+        "ID": 30,
+        "Experience_Years": 2,
+        "Age": 21,
+        "Gender": "Female",
+        "Salary": 6100
+      },
+      {
+        "ID": 31,
+        "Experience_Years": 10,
+        "Age": 34,
+        "Gender": "Male",
+        "Salary": 80000
+      },
+      {
+        "ID": 32,
+        "Experience_Years": 15,
+        "Age": 54,
+        "Gender": "Male",
+        "Salary": 900000
+      },
+      {
+        "ID": 33,
+        "Experience_Years": 20,
+        "Age": 55,
+        "Gender": "Female",
+        "Salary": 1540000
+      },
+      {
+        "ID": 34,
+        "Experience_Years": 19,
+        "Age": 53,
+        "Gender": "Female",
+        "Salary": 9300000
+      },
+      {
+        "ID": 35,
+        "Experience_Years": 16,
+        "Age": 49,
+        "Gender": "Male",
+        "Salary": 7600000
+      }
+    ]
+  }
+}

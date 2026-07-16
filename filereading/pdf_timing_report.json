@@ -1,0 +1,26 @@
+{
+  "source_file": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+  "timings": {
+    "pypdf": {
+      "time_seconds": 0.2319,
+      "pages": 11,
+      "chars_extracted": 32613
+    },
+    "pdfplumber": {
+      "time_seconds": 0.6947,
+      "pages": 11,
+      "chars_extracted": 0,
+      "tables_found": 1
+    },
+    "pymupdf": {
+      "time_seconds": 0.417,
+      "pages": 11,
+      "images_extracted": 3
+    },
+    "camelot": {
+      "time_seconds": 3.414,
+      "pages": 11,
+      "tables_found": 1
+    }
+  }
+}

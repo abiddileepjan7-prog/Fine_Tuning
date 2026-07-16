@@ -1,0 +1,19 @@
+{
+  "excel_file": "Covid Dashboard.xlsx",
+  "csv_file": "Employee_Salary_Dataset.csv",
+  "timings": {
+    "openpyxl": {
+      "time_seconds": 0.1873,
+      "sheets_found": 7
+    },
+    "pandas_excel": {
+      "time_seconds": 0.3442,
+      "rows_extracted": 232,
+      "sheets_processed": 7
+    },
+    "pandas_csv": {
+      "time_seconds": 0.1412,
+      "rows_extracted": 35
+    }
+  }
+}
