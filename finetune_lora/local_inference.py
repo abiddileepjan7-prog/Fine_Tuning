@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-BASE_MODEL_ID = "Qwen/Qwen2.5-0.5B-Instruct"   # original model (before fine-tuning)
+BASE_MODEL_ID = "Qwen/Qwen2.5-0.5B-Instruct"# original model (before fine-tuning)
 FINETUNED_DIR = "./qwen-merged"                 # your fine-tuned merged model (after fine-tuning)
 
 QUESTION = "Give three tips for staying healthy."
